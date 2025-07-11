@@ -9,3 +9,4 @@ Pygame ile geliştirilmiş 2D uzay savaş oyunu.
 - Ses efektleri ve kullanıcı ismi girişi
 
 🎮 [Oynanış Videosunu İzlemek İçin Tıklayın]([https://youtu.be/abc123xyz](https://www.youtube.com/watch?v=rN5wbAE0AG0))
+https://www.youtube.com/watch?v=rN5wbAE0AG0
