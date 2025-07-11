@@ -8,4 +8,4 @@ Pygame ile geliştirilmiş 2D uzay savaş oyunu.
 - Arka plan animasyonu (yanıp sönen yıldızlar)
 - Ses efektleri ve kullanıcı ismi girişi
 
-🎮 [Oynanış Videosunu İzlemek İçin Tıklayın](https://youtu.be/abc123xyz)
+🎮 [Oynanış Videosunu İzlemek İçin Tıklayın]([https://youtu.be/abc123xyz](https://www.youtube.com/watch?v=rN5wbAE0AG0))
