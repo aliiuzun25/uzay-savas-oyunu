@@ -1,0 +1,10 @@
+# Basit bir Turtle örneği (Daireyi hareket ettirme)
+import turtle
+ekran = turtle.Screen()
+karakter = turtle.Turtle("circle")
+def saga(): karakter.setheading(0)
+def sola(): karakter.setheading(180)
+ekran.onkey(saga, "Right")
+ekran.onkey(sola, "Left")
+ekran.listen()
+while True: karakter.forward(1)
